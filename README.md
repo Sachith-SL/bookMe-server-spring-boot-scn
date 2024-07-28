@@ -1,1 +1,1 @@
-this is spring boot POC
+this is spring boot + Gradle POC
